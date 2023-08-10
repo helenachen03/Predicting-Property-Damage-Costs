@@ -12,6 +12,6 @@ The project will culminate in a comprehensive data generation and a report docum
 
 ## Table of Contents
 
-- [Project Description & Data Generation](https://github.com/helenachen03/cart-abandonment-analysis/blob/main/Project_Data.ipynb)
+- [Project Description & Data Generation](https://github.com/helenachen03/Predicting-Property-Damage-Costs/blob/main/Project_Data.ipynb)
 
-- [Analysis Report](https://github.com/helenachen03/cart-abandonment-analysis/blob/main/Cart_Abandonment_Analysis.ipynb)
+- [Report](https://github.com/helenachen03/Predicting-Property-Damage-Costs/blob/main/Report.ipynb)
